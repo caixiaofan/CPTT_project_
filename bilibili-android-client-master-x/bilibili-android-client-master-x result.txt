@@ -1,0 +1,993 @@
+05-24 12:08:40.905 13986-13986/? D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.common.SplashActivity..Lambda.1.lambdaFactory$(SplashActivity) 25870
+05-24 12:08:40.910 13986-13986/? D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity.setUpSplash() 16187530
+05-24 12:08:40.910 13986-13986/? D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity.onCreate(Bundle) 31182420
+05-24 12:08:42.929 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity.finishTask() 17410560
+05-24 12:08:42.929 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity.lambda$setUpSplash$0(Long) 17550960
+05-24 12:08:42.929 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity.access$lambda$0(SplashActivity, Long) 17676180
+05-24 12:08:42.929 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity..Lambda.1.call(Object) 17858050
+05-24 12:08:42.941 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.common.MainActivity.getLayoutId() 35710
+05-24 12:08:43.002 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: HomePageFragment com.hotbitmapgg.bilibili.module.home.HomePageFragment.newInstance() 35720
+05-24 12:08:43.002 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: IFavoritesFragment com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.newInstance() 36130
+05-24 12:08:43.002 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: HistoryFragment com.hotbitmapgg.bilibili.module.entry.HistoryFragment.newInstance() 26690
+05-24 12:08:43.002 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AttentionPeopleFragment com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.newInstance() 27100
+05-24 12:08:43.003 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: ConsumeHistoryFragment com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.newInstance() 26690
+05-24 12:08:43.003 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: SettingFragment com.hotbitmapgg.bilibili.module.entry.SettingFragment.newInstance() 27100
+05-24 12:08:43.003 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initFragments() 2301130
+05-24 12:08:43.024 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.common.MainActivity..Lambda.1.lambdaFactory$(MainActivity) 44340
+05-24 12:08:43.024 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initNavigationView() 20609140
+05-24 12:08:43.024 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initViews(Bundle) 23094600
+05-24 12:08:43.024 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initToolBar() 32430
+05-24 12:08:43.025 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.home.HomePageFragment.getLayoutResId() 26280
+05-24 12:08:43.044 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initToolBar() 1247660
+05-24 12:08:43.046 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initSearchView() 1396690
+05-24 12:08:43.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initViewPager() 2876720
+05-24 12:08:43.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.finishCreateView(Bundle) 5838010
+05-24 12:08:43.352 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.onCreateOptionsMenu(Menu, MenuInflater) 431080
+05-24 12:08:43.897 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.SplashActivity.onDestroy() 294770
+05-24 12:08:47.525 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.launch(Activity, int, String) 6240340
+05-24 12:08:47.535 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.getLayoutId() 34890
+05-24 12:08:47.550 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.lambdaFactory$(VideoDetailsActivity) 24230
+05-24 12:08:47.550 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.4.lambdaFactory$(VideoDetailsActivity) 21350
+05-24 12:08:47.551 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.loadData() 7875970
+05-24 12:08:47.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.1.lambdaFactory$(VideoDetailsActivity) 25050
+05-24 12:08:47.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AppBarLayout.OnOffsetChangedListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.lambdaFactory$(VideoDetailsActivity) 23820
+05-24 12:08:47.553 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initViews(Bundle) 10289170
+05-24 12:08:47.554 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initToolBar() 1214820
+05-24 12:08:47.663 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 117820
+05-24 12:08:47.663 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 273830
+05-24 12:08:47.663 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 364570
+05-24 12:08:47.663 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 468440
+05-24 12:08:47.663 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 553010
+05-24 12:08:47.665 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 337880
+05-24 12:08:47.665 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 462280
+05-24 12:08:47.665 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 558750
+05-24 12:08:47.665 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 637580
+05-24 12:08:47.665 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 722970
+05-24 12:08:47.792 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.onCreateOptionsMenu(Menu) 385910
+05-24 12:08:47.797 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 106740
+05-24 12:08:47.797 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 190490
+05-24 12:08:47.797 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 261110
+05-24 12:08:47.797 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 340750
+05-24 12:08:47.797 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 437640
+05-24 12:08:47.894 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 168740
+05-24 12:08:47.894 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 302160
+05-24 12:08:47.894 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 411370
+05-24 12:08:47.894 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 516060
+05-24 12:08:47.894 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 660990
+05-24 12:08:47.961 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoIntroductionFragment com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.newInstance(int) 305030
+05-24 12:08:47.962 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoCommentFragment com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.newInstance(int) 43520
+05-24 12:08:47.962 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.getLayoutResId() 21350
+05-24 12:08:47.976 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.lambdaFactory$(VideoIntroductionFragment) 34490
+05-24 12:08:47.976 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.2.lambdaFactory$() 21350
+05-24 12:08:47.976 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.loadData() 5402830
+05-24 12:08:47.976 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishCreateView(Bundle) 5523520
+05-24 12:08:47.977 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.getLayoutResId() 156830
+05-24 12:08:47.985 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createHeadView() 1666820
+05-24 12:08:47.985 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createLoadMoreView() 841630
+05-24 12:08:47.986 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.initRecyclerView() 3490900
+05-24 12:08:47.990 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.lambdaFactory$(VideoCommentFragment) 33260
+05-24 12:08:47.990 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.2.lambdaFactory$(VideoCommentFragment) 29970
+05-24 12:08:47.991 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.loadData() 5267350
+05-24 12:08:47.991 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishCreateView(Bundle) 8906030
+05-24 12:08:47.995 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.measureTabLayoutTextWidth(int) 224980
+05-24 12:08:47.995 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setPagerTitle(String) 33781190
+05-24 12:08:47.995 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.finishTask() 35540790
+05-24 12:08:47.995 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$loadData$2(VideoDetailsInfo) 35714880
+05-24 12:08:47.996 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$2(VideoDetailsActivity, VideoDetailsInfo) 35790000
+05-24 12:08:47.996 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.call(Object) 35883610
+05-24 12:08:48.011 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 286560
+05-24 12:08:48.011 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 409320
+05-24 12:08:48.011 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 546850
+05-24 12:08:48.011 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 658110
+05-24 12:08:48.011 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 755000
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoTags() 3319290
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AbsRecyclerViewAdapter.OnItemClickListener com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.3.lambdaFactory$(VideoIntroductionFragment, List) 18890
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoRelated() 481990
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishTask() 10317910
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.lambda$loadData$0(VideoDetailsInfo) 10378670
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.access$lambda$0(VideoIntroductionFragment, VideoDetailsInfo) 10444360
+05-24 12:08:48.038 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.call(Object) 10607350
+05-24 12:08:48.123 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 191320
+05-24 12:08:48.123 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 341170
+05-24 12:08:48.123 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 408490
+05-24 12:08:48.123 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 477060
+05-24 12:08:48.123 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 556700
+05-24 12:08:48.197 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 143690
+05-24 12:08:48.197 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 251260
+05-24 12:08:48.197 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 316940
+05-24 12:08:48.197 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 385910
+05-24 12:08:48.197 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 467610
+05-24 12:08:48.295 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 126040
+05-24 12:08:48.295 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 257010
+05-24 12:08:48.295 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 316940
+05-24 12:08:48.295 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 382640
+05-24 12:08:48.295 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 453660
+05-24 12:08:48.344 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 245510
+05-24 12:08:48.344 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 350200
+05-24 12:08:48.344 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 428200
+05-24 12:08:48.344 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 566140
+05-24 12:08:48.344 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 645390
+05-24 12:08:48.359 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishTask() 160940
+05-24 12:08:48.359 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.lambda$loadData$0(VideoCommentInfo) 245100
+05-24 12:08:48.359 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.access$lambda$0(VideoCommentFragment, VideoCommentInfo) 309550
+05-24 12:08:48.359 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.call(Object) 385090
+05-24 12:08:48.361 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 128100
+05-24 12:08:48.361 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 222100
+05-24 12:08:48.361 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 286570
+05-24 12:08:48.361 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 341570
+05-24 12:08:48.361 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 414650
+05-24 12:08:48.396 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.onSaveInstanceState(Bundle) 21350
+05-24 12:08:48.701 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 245090
+05-24 12:08:48.701 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 343220
+05-24 12:08:48.701 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 474180
+05-24 12:08:48.701 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 546850
+05-24 12:08:48.701 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 654420
+05-24 12:08:48.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 159710
+05-24 12:08:48.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 282460
+05-24 12:08:48.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 348560
+05-24 12:08:48.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 403570
+05-24 12:08:48.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 487320
+05-24 12:08:48.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 133430
+05-24 12:08:48.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 229900
+05-24 12:08:48.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 299290
+05-24 12:08:48.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 362520
+05-24 12:08:48.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 442570
+05-24 12:08:49.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 128500
+05-24 12:08:49.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 210210
+05-24 12:08:49.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 275890
+05-24 12:08:49.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 330080
+05-24 12:08:49.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 399880
+05-24 12:08:49.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 127680
+05-24 12:08:49.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 211030
+05-24 12:08:49.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 337060
+05-24 12:08:49.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 397830
+05-24 12:08:49.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 459810
+05-24 12:08:49.100 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 135900
+05-24 12:08:49.100 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 216770
+05-24 12:08:49.100 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 271780
+05-24 12:08:49.100 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 324330
+05-24 12:08:49.100 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 387560
+05-24 12:08:49.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 149440
+05-24 12:08:49.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 248380
+05-24 12:08:49.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 401930
+05-24 12:08:49.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 499640
+05-24 12:08:49.117 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 561630
+05-24 12:08:49.268 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 207320
+05-24 12:08:49.268 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 358820
+05-24 12:08:49.268 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 416290
+05-24 12:08:49.268 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 565740
+05-24 12:08:49.268 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 719290
+05-24 12:08:49.285 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 269320
+05-24 12:08:49.285 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 404390
+05-24 12:08:49.285 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 483220
+05-24 12:08:49.285 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 576820
+05-24 12:08:49.286 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 901150
+05-24 12:08:49.418 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 204870
+05-24 12:08:49.418 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 385910
+05-24 12:08:49.418 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 446260
+05-24 12:08:49.418 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 507850
+05-24 12:08:49.418 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 745560
+05-24 12:08:49.451 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 113730
+05-24 12:08:49.451 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 193370
+05-24 12:08:49.451 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 244680
+05-24 12:08:49.451 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 301760
+05-24 12:08:49.451 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 357180
+05-24 12:08:49.570 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 114960
+05-24 12:08:49.570 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 197480
+05-24 12:08:49.570 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 252490
+05-24 12:08:49.570 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 306680
+05-24 12:08:49.570 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 372370
+05-24 12:08:49.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 133430
+05-24 12:08:49.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 253310
+05-24 12:08:49.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 308320
+05-24 12:08:49.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 370310
+05-24 12:08:49.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 446270
+05-24 12:08:49.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 154370
+05-24 12:08:49.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 256600
+05-24 12:08:49.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 344040
+05-24 12:08:49.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 452010
+05-24 12:08:49.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 544390
+05-24 12:08:49.682 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 104280
+05-24 12:08:49.682 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 186800
+05-24 12:08:49.682 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 241820
+05-24 12:08:49.682 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 295590
+05-24 12:08:49.682 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 350610
+05-24 12:08:49.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 164630
+05-24 12:08:49.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 285740
+05-24 12:08:49.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 359230
+05-24 12:08:49.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 424910
+05-24 12:08:49.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 500040
+05-24 12:08:49.783 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 150260
+05-24 12:08:49.783 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 293960
+05-24 12:08:49.783 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 353900
+05-24 12:08:49.783 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 412600
+05-24 12:08:49.783 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 475410
+05-24 12:08:49.816 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 108790
+05-24 12:08:49.816 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 217590
+05-24 12:08:49.816 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 282050
+05-24 12:08:49.816 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 338290
+05-24 12:08:49.816 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 410960
+05-24 12:08:49.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 126450
+05-24 12:08:49.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 229090
+05-24 12:08:49.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 286150
+05-24 12:08:49.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 341160
+05-24 12:08:49.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 429430
+05-24 12:08:49.933 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 117410
+05-24 12:08:49.933 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 218000
+05-24 12:08:49.933 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 289030
+05-24 12:08:49.933 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 364160
+05-24 12:08:49.933 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 445450
+05-24 12:08:50.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 98120
+05-24 12:08:50.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 177770
+05-24 12:08:50.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 231140
+05-24 12:08:50.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 287790
+05-24 12:08:50.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 410550
+05-24 12:08:52.125 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment_ViewBinding.unbind() 43930
+05-24 12:08:52.126 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment_ViewBinding.unbind() 32020
+05-24 12:08:52.126 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity_ViewBinding.unbind() 39420
+05-24 12:08:59.009 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.onSaveInstanceState(Bundle) 18060
+05-24 12:09:00.874 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.launch(Activity, int, String) 6967010
+05-24 12:09:00.885 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.getLayoutId() 24220
+05-24 12:09:00.897 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.lambdaFactory$(VideoDetailsActivity) 27100
+05-24 12:09:00.897 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.4.lambdaFactory$(VideoDetailsActivity) 24640
+05-24 12:09:00.898 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.loadData() 4851860
+05-24 12:09:00.898 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.1.lambdaFactory$(VideoDetailsActivity) 25860
+05-24 12:09:00.898 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AppBarLayout.OnOffsetChangedListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.lambdaFactory$(VideoDetailsActivity) 20530
+05-24 12:09:00.898 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initViews(Bundle) 5727160
+05-24 12:09:00.899 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initToolBar() 959870
+05-24 12:09:00.913 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoIntroductionFragment com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.newInstance(int) 45160
+05-24 12:09:00.913 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoCommentFragment com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.newInstance(int) 28330
+05-24 12:09:00.914 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.measureTabLayoutTextWidth(int) 55010
+05-24 12:09:00.914 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setPagerTitle(String) 1202090
+05-24 12:09:00.914 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.finishTask() 1562140
+05-24 12:09:00.914 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$loadData$2(VideoDetailsInfo) 1623720
+05-24 12:09:00.914 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$2(VideoDetailsActivity, VideoDetailsInfo) 1682430
+05-24 12:09:00.915 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.call(Object) 1890990
+05-24 12:09:00.917 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.getLayoutResId() 18880
+05-24 12:09:00.932 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.lambdaFactory$(VideoIntroductionFragment) 158060
+05-24 12:09:00.932 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.2.lambdaFactory$() 16420
+05-24 12:09:00.932 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.loadData() 3004810
+05-24 12:09:00.932 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishCreateView(Bundle) 3084450
+05-24 12:09:00.933 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.getLayoutResId() 33660
+05-24 12:09:00.936 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createHeadView() 2285530
+05-24 12:09:00.938 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createLoadMoreView() 2263360
+05-24 12:09:00.938 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.initRecyclerView() 4908520
+05-24 12:09:00.942 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.lambdaFactory$(VideoCommentFragment) 20530
+05-24 12:09:00.943 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.2.lambdaFactory$(VideoCommentFragment) 28740
+05-24 12:09:00.943 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.loadData() 4462250
+05-24 12:09:00.943 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishCreateView(Bundle) 9581390
+05-24 12:09:01.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 90730
+05-24 12:09:01.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 226210
+05-24 12:09:01.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 296000
+05-24 12:09:01.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 365800
+05-24 12:09:01.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 436420
+05-24 12:09:01.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 128510
+05-24 12:09:01.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 206910
+05-24 12:09:01.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 259460
+05-24 12:09:01.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 317360
+05-24 12:09:01.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 387150
+05-24 12:09:01.158 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.onCreateOptionsMenu(Menu) 396590
+05-24 12:09:01.166 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoTags() 4123960
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AbsRecyclerViewAdapter.OnItemClickListener com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.3.lambdaFactory$(VideoIntroductionFragment, List) 27920
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoRelated() 312420
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishTask() 7811920
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.lambda$loadData$0(VideoDetailsInfo) 7898960
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.access$lambda$0(VideoIntroductionFragment, VideoDetailsInfo) 8011040
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.call(Object) 8117370
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishTask() 162170
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.lambda$loadData$0(VideoCommentInfo) 252900
+05-24 12:09:01.167 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.access$lambda$0(VideoCommentFragment, VideoCommentInfo) 329260
+05-24 12:09:01.168 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.call(Object) 430670
+05-24 12:09:01.258 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 152310
+05-24 12:09:01.258 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 267680
+05-24 12:09:01.258 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 357180
+05-24 12:09:01.258 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 465560
+05-24 12:09:01.258 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 576000
+05-24 12:09:01.378 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 102640
+05-24 12:09:01.378 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 181870
+05-24 12:09:01.378 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 235240
+05-24 12:09:01.378 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 285740
+05-24 12:09:01.378 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 354310
+05-24 12:09:01.429 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 124390
+05-24 12:09:01.429 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 206100
+05-24 12:09:01.429 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 257820
+05-24 12:09:01.429 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 309970
+05-24 12:09:01.429 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 424920
+05-24 12:09:03.045 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment_ViewBinding.unbind() 25460
+05-24 12:09:03.046 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment_ViewBinding.unbind() 16420
+05-24 12:09:03.046 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity_ViewBinding.unbind() 16420
+05-24 12:09:05.705 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.launch(Activity, int, String) 5557590
+05-24 12:09:05.717 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.getLayoutId() 19290
+05-24 12:09:05.726 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.lambdaFactory$(VideoDetailsActivity) 17650
+05-24 12:09:05.726 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.4.lambdaFactory$(VideoDetailsActivity) 16010
+05-24 12:09:05.726 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.loadData() 2769560
+05-24 12:09:05.727 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.1.lambdaFactory$(VideoDetailsActivity) 19710
+05-24 12:09:05.727 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AppBarLayout.OnOffsetChangedListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.lambdaFactory$(VideoDetailsActivity) 20530
+05-24 12:09:05.727 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initViews(Bundle) 3577110
+05-24 12:09:05.729 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initToolBar() 1700910
+05-24 12:09:05.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 107150
+05-24 12:09:05.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 203640
+05-24 12:09:05.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 303390
+05-24 12:09:05.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 367850
+05-24 12:09:05.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 458180
+05-24 12:09:05.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 201170
+05-24 12:09:05.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 750900
+05-24 12:09:05.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 874880
+05-24 12:09:05.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 1161040
+05-24 12:09:05.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 1243140
+05-24 12:09:05.882 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.onCreateOptionsMenu(Menu) 533300
+05-24 12:09:05.891 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 144100
+05-24 12:09:05.891 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 255770
+05-24 12:09:05.891 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 351840
+05-24 12:09:05.891 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 443810
+05-24 12:09:05.891 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 539460
+05-24 12:09:05.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 100990
+05-24 12:09:05.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 181050
+05-24 12:09:05.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 240180
+05-24 12:09:05.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 290670
+05-24 12:09:05.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 345270
+05-24 12:09:06.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoIntroductionFragment com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.newInstance(int) 46390
+05-24 12:09:06.010 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoCommentFragment com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.newInstance(int) 30790
+05-24 12:09:06.011 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.getLayoutResId() 18070
+05-24 12:09:06.022 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.lambdaFactory$(VideoIntroductionFragment) 34490
+05-24 12:09:06.022 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.2.lambdaFactory$() 16420
+05-24 12:09:06.023 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.loadData() 4172410
+05-24 12:09:06.023 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishCreateView(Bundle) 4242610
+05-24 12:09:06.023 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.getLayoutResId() 16420
+05-24 12:09:06.026 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createHeadView() 1383550
+05-24 12:09:06.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createLoadMoreView() 748840
+05-24 12:09:06.027 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.initRecyclerView() 2400890
+05-24 12:09:06.029 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.lambdaFactory$(VideoCommentFragment) 25870
+05-24 12:09:06.029 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.2.lambdaFactory$(VideoCommentFragment) 22580
+05-24 12:09:06.029 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.loadData() 2462480
+05-24 12:09:06.029 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishCreateView(Bundle) 5128990
+05-24 12:09:06.032 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.measureTabLayoutTextWidth(int) 87860
+05-24 12:09:06.032 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setPagerTitle(String) 21662200
+05-24 12:09:06.032 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.finishTask() 22095740
+05-24 12:09:06.032 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$loadData$2(VideoDetailsInfo) 22230800
+05-24 12:09:06.032 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$2(VideoDetailsActivity, VideoDetailsInfo) 22356020
+05-24 12:09:06.032 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.call(Object) 22425410
+05-24 12:09:06.040 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 118230
+05-24 12:09:06.040 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 220870
+05-24 12:09:06.040 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 273430
+05-24 12:09:06.040 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 325150
+05-24 12:09:06.040 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 414240
+05-24 12:09:06.050 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoTags() 1110530
+05-24 12:09:06.050 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AbsRecyclerViewAdapter.OnItemClickListener com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.3.lambdaFactory$(VideoIntroductionFragment, List) 17240
+05-24 12:09:06.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoRelated() 195420
+05-24 12:09:06.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishTask() 4766880
+05-24 12:09:06.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.lambda$loadData$0(VideoDetailsInfo) 4831750
+05-24 12:09:06.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.access$lambda$0(VideoIntroductionFragment, VideoDetailsInfo) 4897030
+05-24 12:09:06.051 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.call(Object) 4974620
+05-24 12:09:06.106 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 107560
+05-24 12:09:06.106 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 182700
+05-24 12:09:06.106 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 237710
+05-24 12:09:06.107 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 290260
+05-24 12:09:06.107 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 344860
+05-24 12:09:06.157 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 135890
+05-24 12:09:06.157 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 233600
+05-24 12:09:06.157 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 303810
+05-24 12:09:06.157 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 374830
+05-24 12:09:06.157 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 447910
+05-24 12:09:06.224 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 172020
+05-24 12:09:06.224 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 291490
+05-24 12:09:06.224 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 356360
+05-24 12:09:06.224 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 413430
+05-24 12:09:06.224 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 558750
+05-24 12:09:06.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 134660
+05-24 12:09:06.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 222100
+05-24 12:09:06.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 274250
+05-24 12:09:06.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 326800
+05-24 12:09:06.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 400280
+05-24 12:09:06.372 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishTask() 105100
+05-24 12:09:06.372 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.lambda$loadData$0(VideoCommentInfo) 279590
+05-24 12:09:06.373 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.access$lambda$0(VideoCommentFragment, VideoCommentInfo) 349780
+05-24 12:09:06.373 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.call(Object) 441340
+05-24 12:09:06.383 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 128090
+05-24 12:09:06.383 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 231540
+05-24 12:09:06.383 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 294360
+05-24 12:09:06.383 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 372770
+05-24 12:09:06.383 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 444620
+05-24 12:09:06.452 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 142050
+05-24 12:09:06.452 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 282460
+05-24 12:09:06.452 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 343210
+05-24 12:09:06.452 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 411370
+05-24 12:09:06.452 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 520570
+05-24 12:09:06.602 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 149850
+05-24 12:09:06.602 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 279990
+05-24 12:09:06.602 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 342400
+05-24 12:09:06.602 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 480340
+05-24 12:09:06.602 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 586680
+05-24 12:09:06.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 231140
+05-24 12:09:06.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 314900
+05-24 12:09:06.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 373190
+05-24 12:09:06.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 427790
+05-24 12:09:06.802 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 564100
+05-24 12:09:06.901 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 195830
+05-24 12:09:06.901 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 329670
+05-24 12:09:06.901 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 383860
+05-24 12:09:06.901 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 440510
+05-24 12:09:06.901 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 630600
+05-24 12:09:06.951 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 251670
+05-24 12:09:06.951 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 436410
+05-24 12:09:06.951 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 502100
+05-24 12:09:06.951 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 659340
+05-24 12:09:06.951 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 822740
+05-24 12:09:06.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 227850
+05-24 12:09:06.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 308320
+05-24 12:09:06.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 360870
+05-24 12:09:06.984 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 517290
+05-24 12:09:06.984 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 669190
+05-24 12:09:07.185 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 130960
+05-24 12:09:07.185 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 238110
+05-24 12:09:07.185 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 296820
+05-24 12:09:07.185 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 349380
+05-24 12:09:07.185 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 411780
+05-24 12:09:07.535 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 2126640
+05-24 12:09:07.535 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 2212440
+05-24 12:09:07.535 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 2459600
+05-24 12:09:07.535 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 2543760
+05-24 12:09:07.535 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 2616430
+05-24 12:09:07.699 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 116590
+05-24 12:09:07.699 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 209380
+05-24 12:09:07.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 265630
+05-24 12:09:07.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 320230
+05-24 12:09:07.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 397820
+05-24 12:09:07.708 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment_ViewBinding.unbind() 20530
+05-24 12:09:07.709 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment_ViewBinding.unbind() 30380
+05-24 12:09:07.710 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity_ViewBinding.unbind() 182290
+05-24 12:09:12.239 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.home.HomePageFragment.onOptionsItemSelected(MenuItem) 5395430
+05-24 12:09:12.257 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity.getLayoutId() 19300
+05-24 12:09:12.274 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity.countProgress(long, long) 79230
+05-24 12:09:12.277 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity.initViews(Bundle) 14195950
+05-24 12:09:12.280 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity..Lambda.1.lambdaFactory$(OffLineDownloadActivity) 29560
+05-24 12:09:12.280 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity.initToolBar() 2430860
+05-24 12:09:12.372 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity.onCreateOptionsMenu(Menu) 309140
+05-24 12:09:12.857 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.onSaveInstanceState(Bundle) 22580
+05-24 12:09:14.006 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.OffLineDownloadActivity_ViewBinding.unbind() 29560
+05-24 12:09:14.507 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.home.HomePageFragment.onOptionsItemSelected(MenuItem) 6018650
+05-24 12:09:14.531 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.getLayoutId() 27090
+05-24 12:09:14.537 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action0 com.hotbitmapgg.bilibili.module.entry.GameCentreActivity..Lambda.1.lambdaFactory$(GameCentreActivity) 24630
+05-24 12:09:14.538 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.entry.GameCentreActivity..Lambda.2.lambdaFactory$(GameCentreActivity) 22580
+05-24 12:09:14.538 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.entry.GameCentreActivity..Lambda.3.lambdaFactory$(GameCentreActivity) 21760
+05-24 12:09:14.538 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.loadData() 2580710
+05-24 12:09:14.538 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.initViews(Bundle) 2689500
+05-24 12:09:14.540 13986-14118/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.showProgressBar() 100590
+05-24 12:09:14.540 13986-14118/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.access$lambda$0(GameCentreActivity) 304220
+05-24 12:09:14.540 13986-14118/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity..Lambda.1.call() 394130
+05-24 12:09:14.543 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.initToolBar() 4583780
+05-24 12:09:16.927 13986-14048/com.hotbitmapgg.ohmybilibili D/AspectJ: VipGameInfo.DataBean com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.access$002(GameCentreActivity, VipGameInfo.DataBean) 88680
+05-24 12:09:16.935 13986-14048/com.hotbitmapgg.ohmybilibili D/AspectJ: String com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.readAssetsJson() 7883770
+05-24 12:09:16.936 13986-14048/com.hotbitmapgg.ohmybilibili D/AspectJ: String com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.access$100(GameCentreActivity) 8385460
+05-24 12:09:16.946 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.entry.GameCentreActivity..Lambda.4.lambdaFactory$(GameCentreActivity) 18890
+05-24 12:09:16.946 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.createHeadView() 1469760
+05-24 12:09:16.946 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.initRecyclerView() 1865950
+05-24 12:09:16.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.hideProgressBar() 61990
+05-24 12:09:16.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.finishTask() 2164420
+05-24 12:09:16.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.lambda$loadData$0(String) 3632530
+05-24 12:09:16.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity.access$lambda$1(GameCentreActivity, String) 3745840
+05-24 12:09:16.947 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity..Lambda.2.call(Object) 3814000
+05-24 12:09:17.156 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.GameCentreActivity_ViewBinding.unbind() 22580
+05-24 12:09:17.613 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 345680
+05-24 12:09:17.613 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.toggleDrawer() 460220
+05-24 12:09:20.288 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchNightMode() 355530
+05-24 12:09:20.288 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.lambda$initNavigationView$0(View) 807960
+05-24 12:09:20.288 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.access$lambda$0(MainActivity, View) 889250
+05-24 12:09:20.288 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity..Lambda.1.onClick(View) 972180
+05-24 12:09:20.290 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.onSaveInstanceState(Bundle) 144100
+05-24 12:09:20.297 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment_ViewBinding.unbind() 26280
+05-24 12:09:20.299 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity_ViewBinding.unbind() 42700
+05-24 12:09:20.307 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.common.MainActivity.getLayoutId() 24220
+05-24 12:09:20.323 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: HomePageFragment com.hotbitmapgg.bilibili.module.home.HomePageFragment.newInstance() 37770
+05-24 12:09:20.323 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: IFavoritesFragment com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.newInstance() 29550
+05-24 12:09:20.323 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: HistoryFragment com.hotbitmapgg.bilibili.module.entry.HistoryFragment.newInstance() 29150
+05-24 12:09:20.324 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AttentionPeopleFragment com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.newInstance() 27920
+05-24 12:09:20.324 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: ConsumeHistoryFragment com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.newInstance() 30380
+05-24 12:09:20.324 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: SettingFragment com.hotbitmapgg.bilibili.module.entry.SettingFragment.newInstance() 50090
+05-24 12:09:20.324 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initFragments() 637170
+05-24 12:09:20.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.common.MainActivity..Lambda.1.lambdaFactory$(MainActivity) 146160
+05-24 12:09:20.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initNavigationView() 27102790
+05-24 12:09:20.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initViews(Bundle) 27991630
+05-24 12:09:20.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initToolBar() 15600
+05-24 12:09:20.352 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.home.HomePageFragment.getLayoutResId() 19710
+05-24 12:09:20.362 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initToolBar() 358000
+05-24 12:09:20.365 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initSearchView() 2562230
+05-24 12:09:20.369 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initViewPager() 3889130
+05-24 12:09:20.369 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.finishCreateView(Bundle) 7099210
+05-24 12:09:20.484 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.onCreateOptionsMenu(Menu, MenuInflater) 295590
+05-24 12:09:21.818 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 443810
+05-24 12:09:21.819 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.toggleDrawer() 890070
+05-24 12:09:22.550 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchNightMode() 144930
+05-24 12:09:22.550 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.lambda$initNavigationView$0(View) 308740
+05-24 12:09:22.550 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.access$lambda$0(MainActivity, View) 379350
+05-24 12:09:22.550 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity..Lambda.1.onClick(View) 468850
+05-24 12:09:22.551 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.onSaveInstanceState(Bundle) 22170
+05-24 12:09:22.557 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment_ViewBinding.unbind() 22590
+05-24 12:09:22.558 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity_ViewBinding.unbind() 39000
+05-24 12:09:22.565 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.common.MainActivity.getLayoutId() 23820
+05-24 12:09:22.593 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: HomePageFragment com.hotbitmapgg.bilibili.module.home.HomePageFragment.newInstance() 66910
+05-24 12:09:22.593 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: IFavoritesFragment com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.newInstance() 37360
+05-24 12:09:22.593 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: HistoryFragment com.hotbitmapgg.bilibili.module.entry.HistoryFragment.newInstance() 36540
+05-24 12:09:22.593 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AttentionPeopleFragment com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.newInstance() 53780
+05-24 12:09:22.593 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: ConsumeHistoryFragment com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.newInstance() 28330
+05-24 12:09:22.593 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: SettingFragment com.hotbitmapgg.bilibili.module.entry.SettingFragment.newInstance() 29150
+05-24 12:09:22.597 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initFragments() 741040
+05-24 12:09:22.617 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.common.MainActivity..Lambda.1.lambdaFactory$(MainActivity) 26680
+05-24 12:09:22.617 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initNavigationView() 20205570
+05-24 12:09:22.617 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initViews(Bundle) 24605430
+05-24 12:09:22.617 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.initToolBar() 23810
+05-24 12:09:22.618 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.home.HomePageFragment.getLayoutResId() 17650
+05-24 12:09:22.625 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initToolBar() 282040
+05-24 12:09:22.626 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initSearchView() 714360
+05-24 12:09:22.628 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.initViewPager() 1650000
+05-24 12:09:22.628 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.finishCreateView(Bundle) 2841820
+05-24 12:09:22.741 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.onCreateOptionsMenu(Menu, MenuInflater) 596530
+05-24 12:09:23.530 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 697940
+05-24 12:09:23.530 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.toggleDrawer() 823970
+05-24 12:09:26.319 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchFragment() 114950
+05-24 12:09:26.319 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.changeFragmentIndex(MenuItem, int) 328030
+05-24 12:09:26.319 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 646610
+05-24 12:09:26.356 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.getLayoutResId() 19290
+05-24 12:09:26.359 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment..Lambda.1.lambdaFactory$(AttentionPeopleFragment) 19710
+05-24 12:09:26.362 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.finishCreateView(Bundle) 3853410
+05-24 12:09:27.247 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.home.HomePageFragment.isOpenSearchView() 16840
+05-24 12:09:27.248 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.exitApp() 181050
+05-24 12:09:27.248 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onKeyDown(int, KeyEvent) 405220
+05-24 12:09:28.751 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 273010
+05-24 12:09:28.751 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.lambda$finishCreateView$0(View) 409720
+05-24 12:09:28.751 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment.access$lambda$0(AttentionPeopleFragment, View) 509900
+05-24 12:09:28.751 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment..Lambda.1.onClick(View) 773060
+05-24 12:09:29.568 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchFragment() 68560
+05-24 12:09:29.568 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.changeFragmentIndex(MenuItem, int) 390020
+05-24 12:09:29.569 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 820680
+05-24 12:09:29.594 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.HistoryFragment.getLayoutResId() 20930
+05-24 12:09:29.598 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.entry.HistoryFragment..Lambda.1.lambdaFactory$(HistoryFragment) 18070
+05-24 12:09:29.601 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.HistoryFragment.finishCreateView(Bundle) 3742570
+05-24 12:09:30.483 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 243040
+05-24 12:09:30.483 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.HistoryFragment.lambda$finishCreateView$0(View) 454060
+05-24 12:09:30.483 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.HistoryFragment.access$lambda$0(HistoryFragment, View) 541510
+05-24 12:09:30.483 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.HistoryFragment..Lambda.1.onClick(View) 633480
+05-24 12:09:31.218 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchFragment() 65680
+05-24 12:09:31.218 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.changeFragmentIndex(MenuItem, int) 174900
+05-24 12:09:31.218 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 585040
+05-24 12:09:31.242 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.getLayoutResId() 20940
+05-24 12:09:31.246 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment..Lambda.1.lambdaFactory$(IFavoritesFragment) 17650
+05-24 12:09:31.249 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.finishCreateView(Bundle) 3027800
+05-24 12:09:31.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 271380
+05-24 12:09:31.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.lambda$finishCreateView$0(View) 456940
+05-24 12:09:31.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment.access$lambda$0(IFavoritesFragment, View) 576820
+05-24 12:09:31.918 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment..Lambda.1.onClick(View) 718460
+05-24 12:09:32.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchFragment() 86210
+05-24 12:09:32.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.changeFragmentIndex(MenuItem, int) 314890
+05-24 12:09:32.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 583390
+05-24 12:09:32.525 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.getLayoutResId() 26680
+05-24 12:09:32.529 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment..Lambda.1.lambdaFactory$(ConsumeHistoryFragment) 21760
+05-24 12:09:32.533 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.finishCreateView(Bundle) 4677380
+05-24 12:09:33.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 173250
+05-24 12:09:33.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.lambda$finishCreateView$0(View) 346910
+05-24 12:09:33.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.access$lambda$0(ConsumeHistoryFragment, View) 419990
+05-24 12:09:33.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment..Lambda.1.onClick(View) 490200
+05-24 12:09:34.334 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 152730
+05-24 12:09:35.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 239760
+05-24 12:09:35.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.lambda$finishCreateView$0(View) 355940
+05-24 12:09:35.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.access$lambda$0(ConsumeHistoryFragment, View) 424920
+05-24 12:09:35.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment..Lambda.1.onClick(View) 503330
+05-24 12:09:36.316 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 204040
+05-24 12:09:37.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 181870
+05-24 12:09:37.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.lambda$finishCreateView$0(View) 298060
+05-24 12:09:37.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.access$lambda$0(ConsumeHistoryFragment, View) 365390
+05-24 12:09:37.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment..Lambda.1.onClick(View) 440920
+05-24 12:09:38.334 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 199520
+05-24 12:09:39.117 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.toggleDrawer() 232370
+05-24 12:09:39.117 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.lambda$finishCreateView$0(View) 339520
+05-24 12:09:39.117 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment.access$lambda$0(ConsumeHistoryFragment, View) 423280
+05-24 12:09:39.117 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment..Lambda.1.onClick(View) 495540
+05-24 12:09:40.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.switchFragment() 71030
+05-24 12:09:40.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.changeFragmentIndex(MenuItem, int) 205680
+05-24 12:09:40.600 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onNavigationItemSelected(MenuItem) 447090
+05-24 12:09:40.634 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment.onCreateOptionsMenu(Menu, MenuInflater) 443800
+05-24 12:09:58.441 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.launch(Activity, int, String) 8129690
+05-24 12:09:58.452 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.getLayoutId() 24220
+05-24 12:09:58.463 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.lambdaFactory$(VideoDetailsActivity) 37770
+05-24 12:09:58.463 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.4.lambdaFactory$(VideoDetailsActivity) 21750
+05-24 12:09:58.464 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.loadData() 3032310
+05-24 12:09:58.464 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: View.OnClickListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.1.lambdaFactory$(VideoDetailsActivity) 156830
+05-24 12:09:58.464 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AppBarLayout.OnOffsetChangedListener com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.lambdaFactory$(VideoDetailsActivity) 29560
+05-24 12:09:58.464 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initViews(Bundle) 4023380
+05-24 12:09:58.467 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.initToolBar() 2981810
+05-24 12:09:58.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 102230
+05-24 12:09:58.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 206910
+05-24 12:09:58.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 263980
+05-24 12:09:58.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 336240
+05-24 12:09:58.552 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 401930
+05-24 12:09:58.553 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 132610
+05-24 12:09:58.553 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 227040
+05-24 12:09:58.553 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 278760
+05-24 12:09:58.553 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 329260
+05-24 12:09:58.553 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 562040
+05-24 12:09:58.618 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.onCreateOptionsMenu(Menu) 642100
+05-24 12:09:58.634 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 94020
+05-24 12:09:58.634 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 192550
+05-24 12:09:58.634 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 248790
+05-24 12:09:58.634 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 332550
+05-24 12:09:58.634 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 387550
+05-24 12:09:58.727 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoIntroductionFragment com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.newInstance(int) 61170
+05-24 12:09:58.727 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: VideoCommentFragment com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.newInstance(int) 53370
+05-24 12:09:58.728 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.getLayoutResId() 16840
+05-24 12:09:58.747 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.lambdaFactory$(VideoIntroductionFragment) 19700
+05-24 12:09:58.747 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.2.lambdaFactory$() 15600
+05-24 12:09:58.748 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.loadData() 3786080
+05-24 12:09:58.748 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishCreateView(Bundle) 3888310
+05-24 12:09:58.748 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: int com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.getLayoutResId() 14780
+05-24 12:09:58.756 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createHeadView() 4909340
+05-24 12:09:58.757 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.createLoadMoreView() 1269420
+05-24 12:09:58.758 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.initRecyclerView() 6425500
+05-24 12:09:58.764 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.lambdaFactory$(VideoCommentFragment) 27910
+05-24 12:09:58.764 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: Action1 com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.2.lambdaFactory$(VideoCommentFragment) 17240
+05-24 12:09:58.769 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.loadData() 11359060
+05-24 12:09:58.769 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishCreateView(Bundle) 17950430
+05-24 12:09:58.771 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.measureTabLayoutTextWidth(int) 66510
+05-24 12:09:58.771 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setPagerTitle(String) 44107720
+05-24 12:09:58.772 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.finishTask() 44772400
+05-24 12:09:58.772 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$loadData$2(VideoDetailsInfo) 44836860
+05-24 12:09:58.772 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$2(VideoDetailsActivity, VideoDetailsInfo) 44915690
+05-24 12:09:58.772 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.3.call(Object) 45011750
+05-24 12:09:58.785 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 112080
+05-24 12:09:58.785 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 240590
+05-24 12:09:58.785 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 363750
+05-24 12:09:58.785 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 422860
+05-24 12:09:58.785 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 487730
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoTags() 1761670
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: AbsRecyclerViewAdapter.OnItemClickListener com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.3.lambdaFactory$(VideoIntroductionFragment, List) 17650
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.setVideoRelated() 180230
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.finishTask() 5010330
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.lambda$loadData$0(VideoDetailsInfo) 5068220
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment.access$lambda$0(VideoIntroductionFragment, VideoDetailsInfo) 5122010
+05-24 12:09:58.803 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment..Lambda.1.call(Object) 5188520
+05-24 12:09:58.844 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 272610
+05-24 12:09:58.844 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 421220
+05-24 12:09:58.844 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 488550
+05-24 12:09:58.844 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 567790
+05-24 12:09:58.845 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 651540
+05-24 12:09:58.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 97300
+05-24 12:09:58.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 182290
+05-24 12:09:58.883 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 247560
+05-24 12:09:58.884 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 300520
+05-24 12:09:58.884 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 355120
+05-24 12:09:59.000 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 232780
+05-24 12:09:59.000 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 418350
+05-24 12:09:59.000 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 485270
+05-24 12:09:59.000 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 564090
+05-24 12:09:59.000 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 626500
+05-24 12:09:59.003 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.onSaveInstanceState(Bundle) 21350
+05-24 12:09:59.066 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 109620
+05-24 12:09:59.066 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 226630
+05-24 12:09:59.066 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 297650
+05-24 12:09:59.066 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 350610
+05-24 12:09:59.066 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 408900
+05-24 12:09:59.081 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.finishTask() 162580
+05-24 12:09:59.081 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.lambda$loadData$0(VideoCommentInfo) 306680
+05-24 12:09:59.081 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment.access$lambda$0(VideoCommentFragment, VideoCommentInfo) 374830
+05-24 12:09:59.081 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment..Lambda.1.call(Object) 436000
+05-24 12:09:59.083 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 139170
+05-24 12:09:59.083 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 276710
+05-24 12:09:59.083 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 344860
+05-24 12:09:59.083 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 414240
+05-24 12:09:59.083 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 507030
+05-24 12:09:59.201 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 123580
+05-24 12:09:59.201 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 261110
+05-24 12:09:59.201 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 317770
+05-24 12:09:59.202 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 371550
+05-24 12:09:59.202 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 429020
+05-24 12:09:59.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 113310
+05-24 12:09:59.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 197070
+05-24 12:09:59.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 254540
+05-24 12:09:59.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 305040
+05-24 12:09:59.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 360460
+05-24 12:09:59.287 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 125210
+05-24 12:09:59.287 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 218000
+05-24 12:09:59.287 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 286980
+05-24 12:09:59.287 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 348560
+05-24 12:09:59.287 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 419580
+05-24 12:09:59.332 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 103460
+05-24 12:09:59.332 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 193370
+05-24 12:09:59.332 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 258640
+05-24 12:09:59.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 318590
+05-24 12:09:59.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 383860
+05-24 12:09:59.433 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 108380
+05-24 12:09:59.433 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 222520
+05-24 12:09:59.433 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 282460
+05-24 12:09:59.433 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 338700
+05-24 12:09:59.434 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 403160
+05-24 12:09:59.500 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 152730
+05-24 12:09:59.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 259870
+05-24 12:09:59.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 337880
+05-24 12:09:59.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 387970
+05-24 12:09:59.501 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 448730
+05-24 12:09:59.519 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 3094710
+05-24 12:09:59.519 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 3233480
+05-24 12:09:59.519 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 3306970
+05-24 12:09:59.519 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 3375120
+05-24 12:09:59.519 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 3483090
+05-24 12:09:59.584 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 117420
+05-24 12:09:59.584 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 213890
+05-24 12:09:59.584 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 278350
+05-24 12:09:59.584 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 337060
+05-24 12:09:59.584 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 398230
+05-24 12:09:59.683 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 102230
+05-24 12:09:59.683 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 183920
+05-24 12:09:59.683 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 272190
+05-24 12:09:59.683 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 328020
+05-24 12:09:59.683 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 387150
+05-24 12:09:59.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 128090
+05-24 12:09:59.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 223740
+05-24 12:09:59.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 279990
+05-24 12:09:59.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 353480
+05-24 12:09:59.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 432300
+05-24 12:09:59.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 112900
+05-24 12:09:59.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 240170
+05-24 12:09:59.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 367850
+05-24 12:09:59.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 469660
+05-24 12:09:59.800 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 535360
+05-24 12:09:59.899 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 120290
+05-24 12:09:59.899 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 197060
+05-24 12:09:59.899 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 254950
+05-24 12:09:59.899 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 309560
+05-24 12:09:59.899 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 368260
+05-24 12:10:00.034 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 146570
+05-24 12:10:00.034 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 345680
+05-24 12:10:00.034 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 437640
+05-24 12:10:00.034 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 499640
+05-24 12:10:00.034 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 567790
+05-24 12:10:00.066 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 123980
+05-24 12:10:00.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 222520
+05-24 12:10:00.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 316530
+05-24 12:10:00.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 380170
+05-24 12:10:00.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 454070
+05-24 12:10:00.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 100170
+05-24 12:10:00.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 174490
+05-24 12:10:00.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 231130
+05-24 12:10:00.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 295180
+05-24 12:10:00.116 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 361690
+05-24 12:10:00.183 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 126450
+05-24 12:10:00.183 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 229900
+05-24 12:10:00.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 290260
+05-24 12:10:00.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 353900
+05-24 12:10:00.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 413420
+05-24 12:10:00.250 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 192550
+05-24 12:10:00.250 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 320230
+05-24 12:10:00.250 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 433540
+05-24 12:10:00.250 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 534130
+05-24 12:10:00.250 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 633480
+05-24 12:10:00.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 128910
+05-24 12:10:00.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 228670
+05-24 12:10:00.284 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 297240
+05-24 12:10:00.284 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 369500
+05-24 12:10:00.284 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 458580
+05-24 12:10:00.315 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 138770
+05-24 12:10:00.315 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 255360
+05-24 12:10:00.316 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 318170
+05-24 12:10:00.316 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 463920
+05-24 12:10:00.316 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 580110
+05-24 12:10:00.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 118650
+05-24 12:10:00.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 211850
+05-24 12:10:00.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 275470
+05-24 12:10:00.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 337060
+05-24 12:10:00.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 424500
+05-24 12:10:00.384 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 136300
+05-24 12:10:00.384 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 239760
+05-24 12:10:00.384 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 312430
+05-24 12:10:00.384 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 387560
+05-24 12:10:00.384 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 452010
+05-24 12:10:00.399 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 107150
+05-24 12:10:00.399 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 199940
+05-24 12:10:00.400 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 352250
+05-24 12:10:00.400 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 430260
+05-24 12:10:00.400 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 491020
+05-24 12:10:00.867 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 166680
+05-24 12:10:00.867 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 245090
+05-24 12:10:00.867 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 307510
+05-24 12:10:00.867 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 356770
+05-24 12:10:00.867 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 535770
+05-24 12:10:03.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 159300
+05-24 12:10:03.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 280000
+05-24 12:10:03.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 353070
+05-24 12:10:03.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 422050
+05-24 12:10:03.799 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 493070
+05-24 12:10:04.019 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.measureTabLayoutTextWidth(int) 53370
+05-24 12:10:04.019 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$000(VideoDetailsActivity, int) 133430
+05-24 12:10:05.503 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.measureTabLayoutTextWidth(int) 48860
+05-24 12:10:05.503 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$000(VideoDetailsActivity, int) 124810
+05-24 12:10:05.949 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 149030
+05-24 12:10:05.949 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 249210
+05-24 12:10:05.949 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 367850
+05-24 12:10:05.949 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 442570
+05-24 12:10:05.949 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 512360
+05-24 12:10:05.966 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 263980
+05-24 12:10:05.966 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 386740
+05-24 12:10:05.966 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 458990
+05-24 12:10:05.966 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 613770
+05-24 12:10:05.966 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 702450
+05-24 12:10:05.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 146570
+05-24 12:10:05.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 319000
+05-24 12:10:05.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 397000
+05-24 12:10:05.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 479930
+05-24 12:10:05.983 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 567380
+05-24 12:10:05.998 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 119470
+05-24 12:10:05.998 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 201170
+05-24 12:10:05.998 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 252900
+05-24 12:10:05.998 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 303800
+05-24 12:10:05.999 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 359640
+05-24 12:10:06.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 371950
+05-24 12:10:06.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 490190
+05-24 12:10:06.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 561630
+05-24 12:10:06.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 654010
+05-24 12:10:06.017 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 727900
+05-24 12:10:06.033 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 214310
+05-24 12:10:06.033 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 324340
+05-24 12:10:06.033 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 465970
+05-24 12:10:06.033 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 590370
+05-24 12:10:06.033 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 664670
+05-24 12:10:06.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 190080
+05-24 12:10:06.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 285740
+05-24 12:10:06.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 423690
+05-24 12:10:06.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 487320
+05-24 12:10:06.049 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 560400
+05-24 12:10:06.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 183520
+05-24 12:10:06.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 336240
+05-24 12:10:06.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 393710
+05-24 12:10:06.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 452430
+05-24 12:10:06.067 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 615410
+05-24 12:10:06.075 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 130140
+05-24 12:10:06.075 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 209380
+05-24 12:10:06.075 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 262750
+05-24 12:10:06.075 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 312840
+05-24 12:10:06.075 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 381400
+05-24 12:10:06.599 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 257820
+05-24 12:10:06.599 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 411370
+05-24 12:10:06.599 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 493890
+05-24 12:10:06.599 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 575590
+05-24 12:10:06.599 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 860920
+05-24 12:10:06.616 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 223340
+05-24 12:10:06.616 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 321050
+05-24 12:10:06.616 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 389200
+05-24 12:10:06.616 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 571490
+05-24 12:10:06.616 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 648260
+05-24 12:10:06.633 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 255360
+05-24 12:10:06.633 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 357170
+05-24 12:10:06.633 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 450780
+05-24 12:10:06.633 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 519340
+05-24 12:10:06.633 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 596530
+05-24 12:10:06.649 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 211020
+05-24 12:10:06.649 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 316530
+05-24 12:10:06.649 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 373190
+05-24 12:10:06.649 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 429430
+05-24 12:10:06.649 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 500460
+05-24 12:10:06.650 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 124800
+05-24 12:10:06.650 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 195010
+05-24 12:10:06.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 260290
+05-24 12:10:06.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 309140
+05-24 12:10:06.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 371540
+05-24 12:10:24.182 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 177350
+05-24 12:10:24.183 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 299700
+05-24 12:10:24.183 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 361700
+05-24 12:10:24.183 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 427790
+05-24 12:10:24.183 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 486090
+05-24 12:10:24.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 129740
+05-24 12:10:24.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 205270
+05-24 12:10:24.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 270960
+05-24 12:10:24.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 333370
+05-24 12:10:24.184 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 389200
+05-24 12:10:24.199 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 152310
+05-24 12:10:24.199 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 242230
+05-24 12:10:24.199 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 300110
+05-24 12:10:24.199 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 362100
+05-24 12:10:24.199 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 439290
+05-24 12:10:24.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 135890
+05-24 12:10:24.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 229490
+05-24 12:10:24.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 298050
+05-24 12:10:24.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 379340
+05-24 12:10:24.216 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 465970
+05-24 12:10:24.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 134660
+05-24 12:10:24.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 271780
+05-24 12:10:24.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 364160
+05-24 12:10:24.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 473770
+05-24 12:10:24.283 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 577650
+05-24 12:10:24.299 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 183110
+05-24 12:10:24.299 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 276300
+05-24 12:10:24.299 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 348970
+05-24 12:10:24.299 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 429840
+05-24 12:10:24.299 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 508670
+05-24 12:10:24.315 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 181470
+05-24 12:10:24.315 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 266450
+05-24 12:10:24.315 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 339110
+05-24 12:10:24.315 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 409320
+05-24 12:10:24.316 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 504160
+05-24 12:10:24.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 149030
+05-24 12:10:24.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 225390
+05-24 12:10:24.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 286150
+05-24 12:10:24.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 336650
+05-24 12:10:24.333 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 394950
+05-24 12:10:24.349 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 219240
+05-24 12:10:24.349 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 332960
+05-24 12:10:24.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 398230
+05-24 12:10:24.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 462680
+05-24 12:10:24.350 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 541520
+05-24 12:10:24.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 185570
+05-24 12:10:24.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 316940
+05-24 12:10:24.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 433950
+05-24 12:10:24.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 540690
+05-24 12:10:24.351 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 624860
+05-24 12:10:24.649 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 245510
+05-24 12:10:24.650 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 340340
+05-24 12:10:24.650 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 767730
+05-24 12:10:24.650 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 920040
+05-24 12:10:24.650 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 985320
+05-24 12:10:24.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 89500
+05-24 12:10:24.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 150670
+05-24 12:10:24.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 199930
+05-24 12:10:24.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 257420
+05-24 12:10:24.651 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 313250
+05-24 12:10:24.666 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 203230
+05-24 12:10:24.667 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 316940
+05-24 12:10:24.667 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 498820
+05-24 12:10:24.667 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 693830
+05-24 12:10:24.667 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 835470
+05-24 12:10:24.684 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 316130
+05-24 12:10:24.684 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 688900
+05-24 12:10:24.684 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 765260
+05-24 12:10:24.684 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 942620
+05-24 12:10:24.684 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 1034990
+05-24 12:10:24.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 139180
+05-24 12:10:24.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 231140
+05-24 12:10:24.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 580100
+05-24 12:10:24.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 673300
+05-24 12:10:24.700 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 858870
+05-24 12:10:24.711 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 153960
+05-24 12:10:24.711 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 227450
+05-24 12:10:24.711 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 328850
+05-24 12:10:24.711 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 408080
+05-24 12:10:24.712 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 560390
+05-24 12:10:24.715 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 165040
+05-24 12:10:24.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 249210
+05-24 12:10:24.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 313250
+05-24 12:10:24.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 366210
+05-24 12:10:24.716 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 429840
+05-24 12:10:24.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 135070
+05-24 12:10:24.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 231960
+05-24 12:10:24.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 302570
+05-24 12:10:24.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 374420
+05-24 12:10:24.733 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 459410
+05-24 12:10:24.749 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 149440
+05-24 12:10:24.749 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 241820
+05-24 12:10:24.749 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 302570
+05-24 12:10:24.749 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 367440
+05-24 12:10:24.749 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 451190
+05-24 12:10:24.766 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.hideFAB() 144510
+05-24 12:10:24.766 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 233200
+05-24 12:10:24.766 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 295590
+05-24 12:10:24.766 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 417530
+05-24 12:10:24.766 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 497590
+05-24 12:10:24.782 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.showFAB() 134250
+05-24 12:10:24.782 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.setViewsTranslation(int) 249210
+05-24 12:10:24.782 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.lambda$initViews$1(AppBarLayout, int) 305040
+05-24 12:10:24.782 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity.access$lambda$1(VideoDetailsActivity, AppBarLayout, int) 360060
+05-24 12:10:24.782 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity..Lambda.2.onOffsetChanged(AppBarLayout, int) 428620
+05-24 12:10:42.959 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoIntroductionFragment_ViewBinding.unbind() 41470
+05-24 12:10:42.960 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoCommentFragment_ViewBinding.unbind() 28740
+05-24 12:10:42.961 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.video.VideoDetailsActivity_ViewBinding.unbind() 16420
+05-24 12:10:43.039 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.home.HomePageFragment.isOpenSearchView() 53370
+05-24 12:10:43.039 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.exitApp() 87040
+05-24 12:10:43.039 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onKeyDown(int, KeyEvent) 575180
+05-24 12:10:47.330 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.home.HomePageFragment.isOpenSearchView() 113310
+05-24 12:10:47.330 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.exitApp() 280000
+05-24 12:10:47.330 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onKeyDown(int, KeyEvent) 932770
+05-24 12:10:48.107 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.home.HomePageFragment.isOpenSearchView() 59120
+05-24 12:10:48.114 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity.exitApp() 6889420
+05-24 12:10:48.114 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: boolean com.hotbitmapgg.bilibili.module.common.MainActivity.onKeyDown(int, KeyEvent) 13541540
+05-24 12:10:48.613 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.home.HomePageFragment_ViewBinding.unbind() 25450
+05-24 12:10:48.617 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.AttentionPeopleFragment_ViewBinding.unbind() 19300
+05-24 12:10:48.617 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.HistoryFragment_ViewBinding.unbind() 17650
+05-24 12:10:48.618 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.IFavoritesFragment_ViewBinding.unbind() 206920
+05-24 12:10:48.618 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.entry.ConsumeHistoryFragment_ViewBinding.unbind() 50500
+05-24 12:10:48.619 13986-13986/com.hotbitmapgg.ohmybilibili D/AspectJ: void com.hotbitmapgg.bilibili.module.common.MainActivity_ViewBinding.unbind() 19710
